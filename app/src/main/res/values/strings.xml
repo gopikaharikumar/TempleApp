@@ -62,6 +62,8 @@
     <string name="nothingselected">Nothing selected</string>
     <string name="custompooja">Custom Pooja</string>
     <string name="amount_in_rs">Amount:                                         Rs.</string>
+    <string name="donations_both">List of Donations: Both paid and not paid</string>
+    <string name="poojas_both">List of Registered Poojas: Both paid and not paid</string>
 
 
     <string-array name="pooja_types">
